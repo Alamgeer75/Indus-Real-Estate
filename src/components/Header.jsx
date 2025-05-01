@@ -7,7 +7,7 @@ const Header = () => {
       <Navbar/>
       <div className='container text-center mx-auto py-4 px-6 md:px-20 lg:px-32 text-white'>
         <h2 className='text-5xl sm:text-6xl md:text-[72px] inline-block max-w-3xl font-semibold shadow-lg shadow-gray-800 pt-20'>Unlock the Door to Your Dream Home</h2>
-        <div className='space-x-6 mt-20'>
+        <div className='mt-20 lg:flex-row justify-center flex flex-col sm:items-start items-center gap-2 px-4'>
             <a href="#Projects" className='border border-white px-10 py-3 rounded text-sm sm:text-base md:text-base w-full sm:w-auto '>Projects</a>
             <a href="#Contact" className='bg-blue-500 px-10 py-3 rounded text-sm sm:text-base md:text-base w-full sm:w-auto'>Contact Us</a>
         </div>
