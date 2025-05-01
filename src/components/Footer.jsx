@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='pt-10 px-4 md:px-20 lg:px-32 bg-yellow-50 w-full overflow-hidden' id='Footer'>
       <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
         <div className='w-full md:w-1/3 mb-8 md:mb-0'>
-            <img src={assets.indus1} className='h-auto w-32 mb-0' alt="" />
+            <img src={assets.ind} className='h-auto w-32 mb-0' alt="" />
             <p className='text-gray-900 mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat recusandae laboriosam reiciendis eaque.</p>
         </div>
         <div className='w-full md:w-1/5 mb-8 md:mb-0'>
