@@ -16,7 +16,7 @@ import project_img_6 from './project_img_6.jpg'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import profile_img_3 from './profile_img_3.png'
-import indus1 from './indus1.svg'
+import indus1 from './Indus1.svg'
 import project from './project.jpg'
 
 export const assets = {
