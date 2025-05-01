@@ -16,7 +16,11 @@ import project_img_6 from './project_img_6.jpg'
 import profile_img_1 from './profile_img_1.png'
 import profile_img_2 from './profile_img_2.png'
 import profile_img_3 from './profile_img_3.png'
+<<<<<<< HEAD
 import ind from './ind.svg'
+=======
+import indus1 from './Indus1.svg'
+>>>>>>> d1337e278cc7c111efa62eb43d012e234c066fb0
 import project from './project.jpg'
 
 export const assets = {
